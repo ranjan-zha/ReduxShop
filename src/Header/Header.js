@@ -1,16 +1,10 @@
 import React, {Component} from 'react';
 
 import './Header.css';
-import $ from 'jquery';
+
 
 
 export default class Header extends Component {
-
-    componentDidMount(){
-        // $(document).ready(function() {
-        //     $('.bd-example-modal-lg').modal('show');
-        //   });
-    }
 
     render(){
         return(
