@@ -16,7 +16,7 @@ export default class Header extends Component {
         return(
             <div className="">
                 <nav className="navbar navbar-light bg-secondary justify-content-between navbar-dark fixed-top">
-                <a className="navbar-brand">alco whiz E-Commerese!</a>
+                <a className="navbar-brand">alco whiz E-Commerece!</a>
                </nav>
             </div>
         )
